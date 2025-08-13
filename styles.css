@@ -1,0 +1,38 @@
+/* styling to all */
+*{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: antiquewhite;
+}
+
+/* title */
+#heading{
+    color:white;
+    font-weight: bold;
+    padding: 10px;
+    margin: 5px;
+    background-color: rgb(62, 65, 64); 
+    font-size: 45px;
+    text-align: center;
+}
+
+/* headings */
+.title{
+    color:blue;
+    padding:5px;
+    margin:auto;
+}
+
+/* paragraphs */
+.explain{
+    color:brown;
+    padding: 3px;
+    margin:5px;
+}
+
+/* footer */
+footer p{
+    text-align: center;
+    background-color: rgb(53, 54, 54);
+    color: white;
+}
+
